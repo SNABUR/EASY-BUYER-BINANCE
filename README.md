@@ -1,4 +1,4 @@
-# EASY BUYER BINANCE
+# EASY FUTURES BUYER BINANCE
 
 <p align="center">
   <img src="https://github.com/SNABUR/EASY-BUYER-BINANCE/assets/136861183/22e82c51-6b2e-48c9-ac57-e70bf8d1a781" alt="Descripción de la imagen">
