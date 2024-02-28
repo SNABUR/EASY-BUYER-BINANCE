@@ -1,0 +1,5 @@
+BINANCE_API_KEY=Xo5jng5glkdfnglknrglksndgohsinhglknlkzdfnmLd1
+BINANCE_API_SECRET_KEY=FbrtbfynjtyklnmlkmxcflnjmUHqzNaT
+MAX_AMOUNT=260
+MIN_AMOUNT=5
+APUESTA=50
